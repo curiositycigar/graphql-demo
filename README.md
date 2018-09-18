@@ -14,7 +14,7 @@ GraphQL是一种用于API的查询语言，由facebook开发并开源。
 
 返回数据会是类似这样
 
-```json
+```
 [
   {
     uuid: '123123',
@@ -82,4 +82,11 @@ function User_name(user) {
   }
 }
 ```
+
+## Schame 和 类型
+
+### 类型系统
+
+
+
 
